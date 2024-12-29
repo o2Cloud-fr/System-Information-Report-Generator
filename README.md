@@ -2,8 +2,6 @@
 
 **System Information Report Generator** est un outil écrit en VBScript qui génère un rapport détaillé des informations système, telles que les détails matériels, le système d'exploitation, les utilisateurs, les processus actifs, et plus encore.
 
-![Screen](https://i.imgur.com/DohCsTV.png)
-
 ## Fonctionnalités
 
 - Extraction des informations matérielles (CPU, RAM, Disques, etc.).
